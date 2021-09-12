@@ -1,0 +1,145 @@
+body{
+	background-image:url(list-bg.png);
+	background-size:cover;
+}
+#body_title{
+	background-color:cornflowerblue;
+	border-radius:5px;
+	opacity:75%;
+	color:white;
+	width:300px;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#name1{
+	background-color:darkturquoise;
+	width:200px;
+	height:30px;
+	font-size:25px;
+	border-radius:5px;
+	font-family:'Times New Roman', Times, serif;
+}
+
+#submit_button
+{
+	background-color:forestgreen;
+	color:white;
+	border-radius:5px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	width:85px;
+	height:30px;
+	font-size:20px;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	background-color:forestgreen;
+	color:white;
+	border-radius:5px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	width:150px;
+	height:30px;
+	font-size:20px;
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+.display_name_with_commas
+{
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name_without_commas
+{
+	border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+}
+#display_name{
+	background-color:gold;
+	border-radius:5px;
+	opacity:75%;
+	color:black;
+	width:1000px;
+	font-weight:bold;
+	font-size:20px;
+}
+#hd1{
+	border-radius:5px;
+	opacity:75%;
+	color:white;
+	width:140px;
+	height:30px;
+	background-color:indigo;
+	font-size:25px;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#show{
+	background-color:forestgreen;
+	color:white;
+	border-radius:5px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	width:80px;
+	height:30px;
+	font-size:20px;
+}
+#p1{
+	background-color:gold;
+	border-radius:5px;
+	opacity:75%;
+	color:black;
+	width:250px;
+	font-weight:bold;
+	font-size:20px;
+}
+#sorted{
+	background-color:gold;
+	border-radius:5px;
+	opacity:75%;
+	color:black;
+	width:250px;
+	font-weight:bold;
+	font-size:20px;
+}
+#s1{
+	background-color:darkturquoise;
+	width:200px;
+	height:30px;
+	font-size:25px;
+	border-radius:5px;
+	font-family:'Times New Roman', Times, serif;
+}
+#srch{
+	background-color:forestgreen;
+	color:white;
+	border-radius:5px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	width:85px;
+	height:30px;
+	font-size:20px;
+}
+#p2{
+	background-color:rgb(250, 58, 0);
+	border-radius:5px;
+	opacity:75%;
+	color:rgb(255, 255, 255);
+	width:250px;
+	font-weight:bold;
+	font-size:20px;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#final_information{
+	color:rgb(151, 3, 3);
+	font-size:17px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
